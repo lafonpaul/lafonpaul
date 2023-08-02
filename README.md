@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paul</h1>
 <h3 align="center">Data Analyst 📊</h3>
 
-- 🔭 I’m currently working on **Building out my Data Science Portfolio**
+- 🏗 Working on **Building out my Data Science Portfolio**
 
 - 🌱 I’m currently upgrading my **Machine Learning skills**
 
