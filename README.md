@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently upgrading my **Machine Learning skills**
 
-- 📫 How to reach me **paul.lfn@protonmail.com**
+- 📫 How to reach me **paul.lafon23@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
