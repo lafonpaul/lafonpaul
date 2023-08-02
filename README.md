@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Building out my Data Science Portfolio**
 
-- 🌱 I’m currently learning **Machine Learning algorithms**
+- 🌱 I’m currently upgrading my **Machine Learning skills**
 
 - 📫 How to reach me **paul.lfn@protonmail.com**
 
